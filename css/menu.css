@@ -157,6 +157,8 @@ i {
 
 h1 {
   font-size: 7.5rem;
+  text-align: center;
+  color: white;
 }
 
 h2 {
@@ -184,6 +186,8 @@ header {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  text-align: center;
+  color: white;
 }
 
 /* css additions */
@@ -193,6 +197,7 @@ nav {
   justify-content: space-evenly;
   margin: 2%;
 }
+
 nav .btn {
   border: none;
   background: none;
@@ -213,7 +218,7 @@ a:hover {
 }
 
 .bg-black {
-  background-color: rgb(0, 4, 17, 0.8);
+  background-color: rgb(0, 0, 0, 0.6);
 }
 
 /* spacer */
