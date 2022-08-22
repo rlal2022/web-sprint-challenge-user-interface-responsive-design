@@ -243,6 +243,28 @@ a:hover {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  color: white;
+}
+
+.menu-container .menu-item div {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.menu h3 {
+  text-align: center;
+}
+
+.menu h2 {
+  text-align: center;
+}
+
+.menu-item {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 /* footer section */
